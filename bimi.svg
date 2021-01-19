@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny-ps" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#8F8F8F;}
+	.st1{fill:#0F0F0F;}
+	.text{font-family:"Muli","Mono";font-size:160px;}
+</style>
+<title>Colpaert Family</title>
+<g>
+<path class="st1" d="M500,10C230,10,10,230,10,500c0,270,220,490,490,490C770,990,990,770,990,500C990,230,770,10,500,10z 
+                     M500,955C250,955,45,750,45,500C45,250,250,45,500,45C750,45,955,250,955,500C955,750,750,955,500,955z"/>
+<path class="st0" d="M763.4,718.7H236.6c-10.4,0-18.8-8.4-18.8-18.6V299.9c0-10.3,8.4-18.6,18.8-18.6h526.8c10.3,0,18.8,8.3,18.8,18.6v400.2C782.2,710.3,773.7,718.7,763.4,718.7z 
+                     M491.3,529.3c7.3,7.3,19.2,7.3,26.6,0l231.9-229.4H259.4L491.3,529.3z 
+					 M575.3,498.8c21.8,16.7,143.3,110,188.1,144.3V312.7C722.4,353.3,634.1,440.6,575.3,498.8z M236.6,690.8c0,5.1,4.2,9.3,9.4,9.3h507.9c5.2,0,9.5-4.2,9.5-9.3v-24.4L562.1,511.8c-26.3,26.1-44.2,43.8-44.2,43.8c-7.3,7.3-19.2,7.3-26.6,0L443,507.9L236.6,666.4L236.6,690.8L236.6,690.8z 
+					 M236.6,643.1c45.1-34.5,157.2-120.7,193.3-148.3l-192.1-190c-0.7,1.3-1.2,2.8-1.2,4.3V643.1z"/>
+<path id="colpaert" stroke="none" fill="none" d="M200,230C400,90,600,90,790,230"/>
+<path id=".com.br"  stroke="none" fill="none" d="M200,800C400,950,600,950,790,800"/>
+<path id="arroba"   stroke="none" fill="none" d="M400,400h200"/>
+<text font-size="160px"><textPath alignment-baseline="middle" startOffset="50" href="#colpaert">colpaert</textPath></text>
+<text font-size="160px"><textPath alignment-baseline="middle" startOffset="80" href="#.com.br">com.br</textPath></text>
+<text font-size="200px"><textPath alignment-baseline="middle" startOffset="10" href="#arroba"></textPath></text>
+</svg>
